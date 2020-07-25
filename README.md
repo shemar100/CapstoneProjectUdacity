@@ -1,2 +1,2 @@
 # CapstoneProjectUdacity
-Flask SqlAlchemy web application to test flask deployment
+Flask SqlAlchemy web application to test heroku deployment
